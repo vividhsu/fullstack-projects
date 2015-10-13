@@ -1,0 +1,38 @@
+{
+  "forrest_gump": {
+    "title": "Forrest Gump",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=eYSnxZKTZzU",
+    "overview": "http://www.imdb.com/title/tt0109830/?ref_=fn_al_tt_2"
+  },
+  "the_parent_trap": {
+    "title": "The Parent Trap",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/f9/Parenttrapposter.jpg",
+    "trailer": "https://www.youtube.com/watch?v=32WeiH4TrIY",
+    "overview": "http://www.imdb.com/title/tt0120783/?ref_=nv_sr_1"
+  },
+  "up": {
+    "title": "Up",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/05/Up_%282009_film%29.jpg",
+    "trailer": "https://www.youtube.com/watch?v=pkqzFUhGPJg",
+    "overview": "http://www.imdb.com/title/tt1049413/?ref_=fn_al_tt_1"
+  },
+  "a_beautiful_mind": {
+    "title": "A Beautiful Mind",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b8/A_Beautiful_Mind_Poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=WFJgUm7iOKw",
+    "overview": "http://www.imdb.com/title/tt0268978/?ref_=nv_sr_1"
+  },
+  "the_devil_wears_prada": {
+    "title": "The Devil Wears Prada",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/e/e7/The_Devil_Wears_Prada_main_onesheet.jpg",
+    "trailer": "https://www.youtube.com/watch?v=XTDSwAxlNhc",
+    "overview": "http://www.imdb.com/title/tt0458352/?ref_=nv_sr_2"
+  }, 
+  "monsters_inc": {
+    "title": "Monsters, Inc.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/63/Monsters_Inc.JPG",
+    "trailer": "https://www.youtube.com/watch?v=Ue_SfrHHBAc",
+    "overview": "http://www.imdb.com/title/tt0198781/?ref_=fn_al_tt_1"
+  } 
+}
