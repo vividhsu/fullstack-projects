@@ -21,7 +21,8 @@ def create_movies():
         with open('movies.json') as data_file:
             data = json.load(data_file)
         for info in data.values():
-            movies.append(media.Movie(info["title"], info["poster"], info["trailer"], info["overview"]))
+            movies.append(media.Movie(info["title"], info["poster"],\
+                info["trailer"], info["overview"]))
     except IOError, err:
         print "Can't open file: ", err
     return movies
