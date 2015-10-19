@@ -17,7 +17,7 @@ open folder P1_movie_trailer_website: `cd P1_movie_trailer_website`
 run: `python entertainment_center.py`
 
 ### What's include
-'''
+```
 fullstack-projects/
 ├──P1_movie_trailer_website/
 |  ├──entertainment_center.py
@@ -26,7 +26,7 @@ fullstack-projects/
 |  ├──movies.json
 |  └──README.md
 └──README.md/
-'''
+```
 
 ## Features
 
