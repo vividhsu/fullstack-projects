@@ -11,10 +11,10 @@ Movie trailer website is a webpage shows my favorite movies, supporting trailer 
 
 ## Quick start
 
-Clone the repo: `git clone https://github.com/vividhsu/fullstack-projects.git`
-go to folder fullstack-projects
-open folder P1_movie_trailer_website: `cd P1_movie_trailer_website`
-run: `python entertainment_center.py`
+* Clone the repo: `git clone https://github.com/vividhsu/fullstack-projects.git`
+* go to folder fullstack-projects
+* open folder P1_movie_trailer_website: `cd P1_movie_trailer_website`
+* run: `python entertainment_center.py`
 
 ### What's include
 ```
